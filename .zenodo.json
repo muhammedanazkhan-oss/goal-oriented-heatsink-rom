@@ -1,0 +1,26 @@
+{
+  "creators": [
+    {
+      "name": "Khan, Muhammed Anaz",
+      "affiliation": "University of Bisha"
+    }
+  ],
+  "title": "Goal-Oriented Certified ROM for Forced-Convection Heat Sinks",
+  "version": "1.0.0",
+  "description": "Reproducibility code for a coupled Stokes/SUPG convection-diffusion truth model and a goal-oriented certified reduced-order model for forced-convection heat-sink engineering outputs.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "keywords": [
+    "reduced-order modelling",
+    "goal-oriented error estimation",
+    "dual-weighted residual",
+    "heat sinks",
+    "convection-diffusion",
+    "certified ROM",
+    "a posteriori error estimation",
+    "SUPG",
+    "Stokes flow"
+  ]
+}
