@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper below."
+title: "Goal-Oriented Certified ROM for Forced-Convection Heat Sinks"
+abstract: >-
+  Reproducibility code for a goal-oriented (dual-weighted-residual) certified
+  reduced-order model of the Nusselt-like thermal output and the pumping power of a
+  parametrized Stokes/convection-diffusion wavy heat-sink benchmark, with an
+  output-adaptive greedy, an anchored-norm a posteriori certificate, and a
+  supremizer-stabilized reduced Stokes model.
+type: software
+authors:
+  - family-names: Khan
+    given-names: "Muhammed Anaz"
+    affiliation: "Department of Mechanical Engineering, College of Engineering, University of Bisha, Bisha 61922, Saudi Arabia"
+    email: mkhan@ub.edu.sa
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # add your ORCID before deposit
+version: "1.0.0"
+date-released: "2026-06-21"
+license: MIT
+# repository-code: "https://github.com/<user>/goal-oriented-heatsink-rom"  # add after creating the repo
+# doi: "10.5281/zenodo.XXXXXXX"                                            # add the Zenodo DOI after deposit
+keywords:
+  - "reduced-order modeling"
+  - "reduced basis method"
+  - "dual-weighted residual"
+  - "goal-oriented error estimation"
+  - "a posteriori error estimation"
+  - "forced convection"
+  - "Nusselt number"
+  - "pumping power"
+  - "Stokes flow"
+  - "SUPG stabilization"
+preferred-citation:
+  type: article
+  title: "Goal-Oriented Error Estimation and Adaptive Model Reduction for Engineering Outputs in Forced-Convection Heat Sinks"
+  authors:
+    - family-names: Khan
+      given-names: "Muhammed Anaz"
+      affiliation: "University of Bisha"
+  journal: "ESAIM: Mathematical Modelling and Numerical Analysis"
+  year: 2026
+  notes: "Manuscript under review; update volume/pages/DOI on acceptance."
